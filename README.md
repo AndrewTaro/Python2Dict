@@ -1,5 +1,5 @@
 # Python2Dict
-Simulate dictionary and its iteration order in Python 2
+Simulate the Python 2 dictionary and its iteration order on Python 3.
 
 ## Usage
 - `.iterkeys()`
